@@ -1,0 +1,9 @@
+instruction menu option
+-bigger area
+-use spawn count to decide score not frame rate
+music
+new enemy
+-use escape button to get back to menu not close window
+-give user option to restart instead of having to reload program
+
+use - to mark as done
